@@ -2,7 +2,7 @@ I'm a solution architect of communication technology for packet core network fro
 
 **About me**
 
-- 💼 A Solution Architect for Packet Core Network in Ericsson
+- 💼 A Solution Architect for Packet Core Network in Ericsson, familiar with call flow of 2/3/4/5G/Wi-Fi Calling and Packet Core productions.
 
 - ❤️ I love coding some script to enhance daily work like DNS-Config-Generation for Packet Core, NGG for covert NRI/GUMMEI/GUAMI and other script
 
