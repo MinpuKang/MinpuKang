@@ -1,4 +1,4 @@
-I'm a solution architect of communication technology for packet core network from China.
+I'm a solution architect of communication technology for packet core network.
 
 **About me**
 
