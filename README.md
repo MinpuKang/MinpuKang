@@ -1,3 +1,21 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="www.atong.run">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Welcome to My Home!&center=true&size=27">
+  </a>
+</h1>
+
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+
+
+  <p align="center">
+    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+</p>
+
+## Hey, I'm Minpu 🙋
+
 I'm a solution architect of communication technology for packet core network.
 
 **About me**
@@ -11,3 +29,10 @@ I'm a solution architect of communication technology for packet core network.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinpuKang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinpuKang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Project Analysis :point_down:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MinpuKang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinpuKang&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+![](https://github-profile-trophy.vercel.app/?username=MinpuKang&theme=flat&column=7&margin-w=10)
