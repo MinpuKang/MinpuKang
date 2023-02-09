@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://hk314.top/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Welcome to My Home!&center=true&size=27">
+  <a href="www.atong.run">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Welcome%20to%20My%20Home!&center=true&size=27">
   </a>
 </h1>
 
