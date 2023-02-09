@@ -8,16 +8,19 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
   <p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+    Visitor count<br><img src="https://profile-counter.glitch.me/MinpuKang/count.svg" />
 </p>
 
 ## Hey, I'm Minpu 🙋
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<br>
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://hk314.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://www.zhihu.com/people/liulikangkang"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=atongrun" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=MinpuKang" alt="访客统计" />
 </div>
 
 **About me**
