@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://hk314.top/">
+  <a target="_blank" href="https://hk314.top/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Welcome%20to%20My%20Home!&center=true&size=27">
   </a>
 </h1>
@@ -17,9 +17,9 @@
 <br>
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://hk314.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://www.zhihu.com/people/liulikangkang"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-  <a href="https://open.weixin.qq.com/qr/code?username=gh_7e601d95d570"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-blue"></a>&emsp;
+  <a target="_blank" href="https://hk314.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a target="_blank" href="https://www.zhihu.com/people/liulikangkang"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a target="_blank" href="https://open.weixin.qq.com/qr/code?username=gh_7e601d95d570"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=MinpuKang" alt="访客统计" />
 </div>
@@ -30,7 +30,7 @@
 
 - ❤️ I love coding some script to enhance daily work like DNS-Config-Generation for Packet Core, NGG for covert NRI/GUMMEI/GUAMI and other script
 
-- 💬 Ask me about anything [here](https://www.zhihu.com/consult/people/731986790805688320)
+- 💬 Ask me about anything <a target="_blank" href="https://www.zhihu.com/consult/people/731986790805688320">here</a>
 
 ## Project Analysis :point_down:
 
